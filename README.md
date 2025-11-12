@@ -2,7 +2,7 @@
 An app that scrapes the nutrition facts for every food item from the UMD dining hall menu for a given week and outputs a meal plan to hit the user's dietary goals.
 
 Extra feature:  
-Customized meal plans: User inputs their height, weight, BMI, etc. and Nutrify UMD creates a meal plan based on that information + the user's fitness/health goal. You can then ask questions about the meal plan and an AI will answer.
+Customized meal plans - User inputs their height, weight, BMI, etc. and Nutrify UMD creates a meal plan based on that information + the user's fitness/health goal. You can then ask questions about the meal plan and an AI will answer.
 
 ## Example
 User inputs:   
