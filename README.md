@@ -5,7 +5,7 @@ Extra feature:
 Customized meal plans: User inputs their height, weight, BMI, etc. and Nutrify UMD creates a meal plan based on that information + the user's fitness/health goal. You can then ask questions about the meal plan and an AI will answer.
 
 ## Example
-User inputs: \n
+User inputs:   
 body_data: height (6ft), weight(260lb), etc.
 selected_fitness/health_goal: weight loss
 wants_workout_plan?: yes
