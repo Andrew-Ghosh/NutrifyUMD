@@ -16,7 +16,7 @@ Customized meal plan + detailed workout plan with sets and rest(NutrifyUMD has a
 
 Reasoning provided by AI model, you can converse with the AI if you want to ask questions about your fitness/health plan.
 
-# How it works
+## How it works
 NutrifyUMD uses the users inputs to calculate the necessary macronutrient (Xg protein, Yg fat, Zg carbs, etc.) & micronutrients (Xmg iron, Ymcg vitamin A, Zmg iodine, etc.) count for a single week.
 
 Uses linear algebra calculations to get the optimal combination of items in the UMD dining menu to hit the nutrition requirements.
