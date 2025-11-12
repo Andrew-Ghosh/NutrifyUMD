@@ -9,7 +9,7 @@ User inputs:
 body_data: height (6ft), weight(260lb), etc.   
 selected_fitness/health_goal: weight loss   
 wants_workout_plan?: yes  
-  commitment level: 5 days/week, 1 hour/day  
+ - commitment level: 5 days/week, 1 hour/day  
 
 NutrifyUMD output:  
 Customized meal plan + detailed workout plan with sets and rest (NutrifyUMD has access to the UMD Gym's equipment list) that fits the users requests  
