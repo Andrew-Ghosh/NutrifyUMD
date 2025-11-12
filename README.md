@@ -12,7 +12,7 @@ wants_workout_plan?: yes
   commitment level: 5 days/week, 1 hour/day  
 
 NutrifyUMD output:  
-Customized meal plan + detailed workout plan with sets and rest(NutrifyUMD has access to the UMD Gym's equipment list) that fits the users requests  
+Customized meal plan + detailed workout plan with sets and rest (NutrifyUMD has access to the UMD Gym's equipment list) that fits the users requests  
 
 Reasoning provided by AI model, you can converse with the AI if you want to ask questions about your fitness/health plan.  
 
